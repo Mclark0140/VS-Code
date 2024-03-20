@@ -1,0 +1,12 @@
+using System;
+
+namespace MyFirstProgram;
+{
+    Class MyFirstProgram
+    {
+        Static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
+}    
